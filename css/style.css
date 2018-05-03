@@ -41,9 +41,6 @@ button:hover{
 	transition: .2s;
 }
 
-.operations input[type="radio"]:checked + label{
-}
-
 input[type="radio"] {
 	display: none;
 }
