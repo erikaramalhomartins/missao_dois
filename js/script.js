@@ -22,6 +22,7 @@ document.getElementById('calculate-button').onclick = function() {
     }
 }
 
+//shows the result of addition, subtraction, division and multiplication operations with two numbers
 function getResult(elem1, elem2, symbol) {
     if(symbol === '+') {
         return elem1 + elem2;
